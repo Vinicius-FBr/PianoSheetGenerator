@@ -7,3 +7,5 @@ music21
 ipython
 ipywidgets
 tensorflow
+reportlab
+pillow
