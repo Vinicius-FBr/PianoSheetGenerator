@@ -1,0 +1,8 @@
+librosa
+numpy
+matplotlib
+soundfile
+crepe
+music21
+ipython
+ipywidgets
