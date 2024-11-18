@@ -6,3 +6,4 @@ crepe
 music21
 ipython
 ipywidgets
+tensorflow
